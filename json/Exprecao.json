@@ -1,0 +1,32 @@
+{
+    "Normal": {
+        "Bigode": 0,
+        "Boca": 0,
+        "Nariz": 0,
+
+        "Olhos":[0,0],
+        "Pupilas":[0,0],
+
+        "Sombrancelhas":[0,0]
+    },
+    "Falando":{
+        "Bigode": 0,
+        "Boca": 1,
+        "Nariz": 0,
+
+        "Olhos":[0,0],
+        "Pupilas":[0,0],
+
+        "Sombrancelhas":[0,0]
+    },
+    "Dormir":{
+        "Bigode": 0,
+        "Boca": 0,
+        "Nariz": 0,
+
+        "Olhos":[2,2],
+        "Pupilas":["null","null"],
+
+        "Sombrancelhas":[0,0]
+    }
+}

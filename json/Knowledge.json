@@ -1,0 +1,48 @@
+{
+  "Questoes": [
+    {
+      "Questao": "ola",
+      "resposta": [
+        "Ol\u00e1, como vai ?",
+        "oi /$ como vai ?",
+        "Ol\u00e1 /$ como vai voce?",
+        "oi /$ como vai voce?"
+      ]
+    },
+    {
+      "Questao": "Como vai voc\u00ea ?",
+      "resposta": [
+        "Vou bem /$ obrigado por perguntar"
+      ]
+    },
+    {
+      "Questao": "qual seu nome",
+      "resposta": [
+        "meu nome \u00e9 kitty"
+      ]
+    },
+    {
+      "Questao": "como esta o clima hoje?",
+      "resposta": [
+        "esta chuvoso",
+        "oclima esta bom",
+        "a previs\u00e3o \u00e9 de chuva intensa",
+        "a previs\u00e3o \u00e9 de c\u00e9u limpo"
+      ]
+    },
+    {
+      "Questao": "tchau",
+      "resposta": [
+        "/$/ Sleep()"
+      ]
+    },
+    {
+      "Questao": "vou bem e voce",
+      "resposta": [
+        "vou muito bem /$ obrigado",
+        "vou bem /$ oq posso fazer para ajuda-lo ?",
+        "vou bem /$ como posso ajudar ?"
+      ]
+    }
+  ]
+}
