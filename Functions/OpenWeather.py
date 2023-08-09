@@ -2,7 +2,7 @@ import datetime as dt
 import requests
 
 
-APY_KEY = "bfe587123a29ec7a1c5d4fd3ffd4c8a7"
+APY_KEY = "KEY"
 
 #Andradina #{'Lat': -20.896505, 'Lon': -51.3742765}
 
